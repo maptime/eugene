@@ -1,11 +1,11 @@
-baseurl: /starter
+baseurl: /eugene
 permalink: pretty
 markdown: kramdown
 paginate: 5
-repo: starter
+repo: eugene
 github_org: maptime
 maptime:
-  chapter: Chapter name
+  chapter: MaptimeEUG
   twitter: TwitterHandle
   #disqus: YOUR DISQUS USERNAME
 
