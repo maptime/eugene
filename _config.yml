@@ -6,7 +6,7 @@ repo: eugene
 github_org: maptime
 maptime:
   chapter: MaptimeEUG
-  twitter: TwitterHandle
+  twitter: MaptimeEUG
   #disqus: YOUR DISQUS USERNAME
 
 gems:
