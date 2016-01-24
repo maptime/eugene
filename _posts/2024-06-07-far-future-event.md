@@ -5,4 +5,4 @@ title: Meetup event
 rsvp: http://procatinator.com/
 ---
 
-You should add things here.
+Our first meeting will be held on Monday January 25th at 208 Condon Hall! 
