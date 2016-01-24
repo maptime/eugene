@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Hello world
+title: Hello Eugene!
 ---
 
-Replace this post with an introduction to your MapTime meetup! Posts
-are written in [Markdown](https://guides.github.com/features/mastering-markdown/).
+Maptime has finally arrived the TrackTown USA! Follow us on Twitter [@MaptimeEUG] (http://twitter.com/MaptimeEUG) to keep updated on future meetings!
