@@ -101,7 +101,7 @@ h6 a:hover { text-decoration:none;}
 
 .fill-light   { background-color:#eee; }
 
-.fill-map {background-image:url(img/maptimeheader.jpg);}
+.fill-map {background-image:url(img/maptimeheader.jpg); background-position: center bottom;}
 a.fill-map:hover     { background-color:#279acb; text-decoration:none; }
 .fill-blue            { background-color:#2babe2; }
 a.fill-blue:hover     { background-color:#279acb; text-decoration:none; }
@@ -116,7 +116,7 @@ a.fill-orange:hover   { background-color:#de851d; text-decoration:none; }
 .fill-red             { background-color:#ec2127; }
 a.fill-red:hover      { background-color:#d41e23; text-decoration:none; }
 
-.fill-darken0         { background-color:rgba(0,0,0,0.10); }
+.fill-darken0         { background-color:rgba(0,0,0,0.40); }
 a.fill-darken0:hover  { background-color:rgba(0,0,0,0.15); }
 .fill-darken1 { background-color:rgba(0,0,0,0.25); }
 
