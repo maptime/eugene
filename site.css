@@ -26,7 +26,7 @@ h5 a:hover,
 h6 a:hover { text-decoration:none;}
 
 .button {
-  background:#83B50;
+  background:#009347;
   color:#fff;
   display:inline-block;
   border-radius:4px;
@@ -47,7 +47,7 @@ h6 a:hover { text-decoration:none;}
     text-decoration:none;
     }
   .button:hover {
-    background-color:#279acb;
+    background-color:#008440;
     }
   .button:active {
     position:relative;
