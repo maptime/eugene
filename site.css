@@ -101,6 +101,8 @@ h6 a:hover { text-decoration:none;}
 
 .fill-light   { background-color:#eee; }
 
+.fill-map {background-image:url(img/maptimeheader.jpg);}
+a.fill-map:hover     { background-color:#279acb; text-decoration:none; }
 .fill-blue            { background-color:#2babe2; }
 a.fill-blue:hover     { background-color:#279acb; text-decoration:none; }
 .fill-purple          { background-color:#652e8e; }
@@ -120,7 +122,6 @@ a.fill-darken0:hover  { background-color:rgba(0,0,0,0.15); }
 
 .fill-chapter {
   /* Replace this with a map of your city */
-  background-image:url(img/maptimeheader.jpg);
   background-repeat:no-repeat;
   background-size:cover;
   max-width:100%;
