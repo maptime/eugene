@@ -2,7 +2,7 @@
 layout: event
 category: event
 title: Interactive Web Mapping with Carto
-rsvp: 
+rsvp: https://goo.gl/forms/bBbSZDHRPZrts0pm1
 rsvpdate: 2018-03-06
 image: eugene/img/MapTimeInteractiveWebMapping_FlyerFeb21_2.png
 ---
