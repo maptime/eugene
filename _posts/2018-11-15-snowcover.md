@@ -2,7 +2,7 @@
 layout: event
 category: event
 title: Creating snow cover for your maps
-rsvp: none
+rsvp: https://twitter.com/MaptimeEUG
 rsvpdate: 2018-11-15
 image: eugene/img/GAW2018CombinedFlyer.jpg
 ---
