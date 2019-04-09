@@ -6,4 +6,4 @@ rsvp: https://twitter.com/MaptimeEUG
 rsvpdate: 2019-03-17
 ---
 
-Join us and cartographer Daniel Coe to learn how to make beautiful hydrographic maps using Lidar data. Snacks provided.
+Join us and cartographer Daniel Coe to learn how to make beautiful hydrographic maps using Lidar data. Snacks provided. 6pm in the Edmiston Room (144), UO Knight Library.
