@@ -6,6 +6,8 @@ rsvp: https://twitter.com/MaptimeEUG
 rsvpdate: 2019-03-17
 ---
 
+![alt text](https://github.com/maptime/eugene/blob/gh-pages/img/maptime%20dan%20cole.jpg "Dan Coe Flier")
+
 Join us and cartographer Daniel Coe to learn how to make beautiful hydrographic maps using Lidar data. Snacks provided. 6pm in the Edmiston Room (144), UO Knight Library.
 
 [Workshop Slides](https://drive.google.com/open?id=1JIypkR8lbQaH2P0JW4VIO636hU10m0yg)  
