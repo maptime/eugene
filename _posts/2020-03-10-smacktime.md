@@ -8,6 +8,6 @@ rsvpdate: 2020-03-10
 
 ![](https://raw.githubusercontent.com/maptime/eugene/gh-pages/img/MaptimeEUG_Spring2020.png)
 
-Come hang out with map minded people and bring your draft maps for others to critique and gently smack!
+Come hang out with map minded people and bring your draft maps for others to critique and gently smack with positive suggestions! :)
 
 [Follow the smackening on our Twitter](https://www.twitter.com/maptimeeug)  
